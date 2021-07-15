@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis using Spark Streaming [Python, Apache Spark, ElasticSearch, Kibana] 
+# Twitter Sentiment Analysis using Spark Streaming [Python, Apache Spark, ElasticSearch, Kibana] 
 
 To run this, first the prerequisite is to install Apache Spark, Elasticsearch, Kibana, and Python version 3.8 +. This program is intended to be run on Linux Ubuntu.
 
